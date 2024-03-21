@@ -11,7 +11,8 @@ form {
 	align-content: normal;
 }
 label,
-input {
+input,
+option {
 	display: flex;
 	justify-content: center;
 }
