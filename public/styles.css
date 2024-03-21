@@ -28,16 +28,17 @@ label,
 textarea {
 	color: grey;
 	font-weight: bolder;
+	font-family: "Press Start 2P", cursive;
 }
 select {
-	width: 100%;
+	width: 90%;
 	box-shadow: 0 0 5px #fff;
 	border-radius: 5px;
 	padding: 10px;
 	margin-bottom: 10px;
 }
 textarea {
-	width: 100%;
+	width: 90%;
 	box-shadow: 0 0 5px #fff;
 	border-radius: 5px;
 	padding: 10px;
@@ -63,6 +64,32 @@ input {
 	border-radius: 5px;
 	padding: 10px;
 	margin-bottom: 10px;
+	font-family: "Press Start 2P", cursive;
+	color: #000;
+	font-weight: bolder;
+	background-color: #fff;
+}
+select {
+	width: 100%;
+	box-shadow: 0 0 5px #fff;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 10px;
+	font-family: "Press Start 2P", cursive;
+	color: #000;
+	font-weight: bolder;
+	background-color: #fff;
+}
+option {
+	width: 100%;
+	box-shadow: 0 0 5px #fff;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 10px;
+	font-family: "Press Start 2P", cursive;
+	color: #000;
+	font-weight: bolder;
+	background-color: #fff;
 }
 submit {
 	display: flex;
@@ -74,4 +101,16 @@ button {
 	border-radius: 5px;
 	padding: 10px;
 	margin-bottom: 10px;
+	font-family: "Press Start 2P", cursive;
+	color: #000;
+	font-weight: bolder;
+	background-color: #fff;
+}
+form {
+	width: 80%;
+	max-width: 600px;
+	padding: 20px;
+	background-color: #f4f4f4;
+	border-radius: 8px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
