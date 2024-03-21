@@ -51,7 +51,14 @@ form {
 	justify-content: normal;
 	align-items: normal;
 	align-content: normal;
+	width: 80%;
+	max-width: 600px;
+	padding: 20px;
+	background-color: #f4f4f4;
+	border-radius: 8px;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
 label,
 input,
 option {
@@ -105,12 +112,4 @@ button {
 	color: #000;
 	font-weight: bolder;
 	background-color: #fff;
-}
-form {
-	width: 80%;
-	max-width: 600px;
-	padding: 20px;
-	background-color: #f4f4f4;
-	border-radius: 8px;
-	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
