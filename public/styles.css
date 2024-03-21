@@ -1,0 +1,17 @@
+h1 {
+	display: flex;
+	justify-content: center;
+}
+form {
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	justify-content: normal;
+	align-items: normal;
+	align-content: normal;
+}
+label,
+input {
+	display: flex;
+	justify-content: center;
+}
