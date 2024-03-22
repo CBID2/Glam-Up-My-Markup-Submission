@@ -1,4 +1,4 @@
-# Glam-Up-My-Markup-Submission
+# Glam Up My Markup Submission
 
 ## Description
 This is a [participation in the *Glam Up My Markup* challenge from DEV](https://dev.to/challenges/frontend). 
@@ -10,7 +10,7 @@ The goal is to create a visually appealing webpage using CSS and JS.
 
 ## The Result
 
-![Preview of the final result](/docs/preview.png)
+[![Preview of the final result](/docs/preview.png)](https://glam-up-my-markup-submission.vercel.app/)
 
 You can see the final result [here](https://glam-up-my-markup-submission.vercel.app/).
 
