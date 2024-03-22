@@ -11,7 +11,12 @@ body {
 	align-items: center;
 	cursor: url(/images/cursor_pointer.png), pointer;
 }
-
+section {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 1rem;
+}
 h1,
 p,
 label,
@@ -39,6 +44,10 @@ textarea {
 	border-radius: 5px;
 	padding: 10px;
 	margin-bottom: 10px;
+	width: auto;
+}
+label {
+	margin-bottom: 1rem;
 }
 select {
 	cursor: url(/images/cursor_pointer.png), auto;
@@ -124,7 +133,32 @@ button:hover {
 	background-color: #000;
 	color: #fff;
 }
+button:disabled {
+	cursor: not-allowed;
+	background-color: #ccc;
+	color: #000;
+}
 label[for="activity-select"]::after {
 	content: "*";
 	color: #d83f16;
+}
+.newPlayerMessage {
+	font-family: "Press Start 2P", cursive;
+	font-weight: 100;
+	font-size: 0.8rem;
+	color: #30104d;
+	text-align: center;
+	line-height: 1.4rem;
+
+}
+.newPlayerEnteredIn {
+	animation: newPlayerI .4s cubic-bezier(0, 1.19, 0.86, -0.44);
+}
+@keyframes newPlayerI {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
 }
