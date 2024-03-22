@@ -9,7 +9,9 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	cursor: url(/images/cursor_pointer.png), auto;
 }
+
 h1,
 p,
 label,
