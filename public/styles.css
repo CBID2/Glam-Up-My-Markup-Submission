@@ -10,6 +10,7 @@ body {
 	justify-content: center;
 	align-items: center;
 	cursor: url(/images/cursor_pointer.png), pointer;
+	backdrop-filter: blur(4px);
 }
 section {
 	display: flex;
@@ -33,9 +34,12 @@ h1,
 p,
 label,
 textarea {
-	color: grey;
+	color: #100e1b;
 	font-weight: bolder;
 	font-family: "Press Start 2P", cursive;
+}
+h1 {
+	color: #d83f16;
 }
 select,
 textarea {
