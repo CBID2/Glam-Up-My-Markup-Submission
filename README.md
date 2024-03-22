@@ -1,19 +1,8 @@
 # Glam Up My Markup Submission
 
 ## Description
-This is a [participation in the *Glam Up My Markup* challenge from DEV](https://dev.to/challenges/frontend). 
+This is a [submission for Dev.to's *Glam Up My Markup* challenge from DEV](https://dev.to/challenges/frontend).
 The goal is to create a visually appealing webpage using CSS and JS.
-
-> [!NOTE]
-> - Contest period : March 20 to March 31, 2024
-> - Submission prompt : **Glam Up My Markup**
-
-## The Result
-
-[![Preview of the final result](/docs/preview.png)](https://glam-up-my-markup-submission.vercel.app/)
-
-You can see the final result [here](https://glam-up-my-markup-submission.vercel.app/).
-
 
 ## The Challenge
 
@@ -44,11 +33,14 @@ You can see the final result [here](https://glam-up-my-markup-submission.vercel.
 </section>
 ```
 
-## Judging Criteria:
-- Accessibility
-- Usability and user experience
-- Creativity
-- Code quality
+## Inspiration
+
+We were thinking about back to our childhood playing video games like Pokemon Silver or Zelda. So, we decided to create a form where the player has to pick an activity and they get another teammate after clicking one the submit button.
+## The Result
+
+![Preview of the final result](/docs/preview.png)
+
+You can see the final result [here](https://glam-up-my-markup-submission.vercel.app/).
 
 ## Participants
 - [Christine Belzie](https://dev.to/CBID2) as [@CBID2](https://github.com/CBID2)
