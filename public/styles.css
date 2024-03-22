@@ -115,9 +115,9 @@ button {
 }
 button :active {
 	/* add cartoon hand as a cursor */
-	cursor: url(/images/cursor.png), auto;
+	cursor: url(/images/cursor_pointer.png), auto;
 }
 button :hover {
 	/* add cartoon hand as a cursor */
-	cursor: url(/images/cursor.png), auto;
+	cursor: url(/images/cursor_pointer.png), auto;
 }
