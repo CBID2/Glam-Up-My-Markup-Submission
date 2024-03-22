@@ -9,7 +9,7 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	cursor: url(/images/cursor_pointer.png), auto;
+	cursor: url(/images/cursor_pointer.png), pointer;
 }
 
 h1,
@@ -32,19 +32,16 @@ textarea {
 	font-weight: bolder;
 	font-family: "Press Start 2P", cursive;
 }
-select {
-	width: 90%;
-	box-shadow: 0 0 5px #fff;
-	border-radius: 5px;
-	padding: 10px;
-	margin-bottom: 10px;
-}
+select,
 textarea {
 	width: 90%;
 	box-shadow: 0 0 5px #fff;
 	border-radius: 5px;
 	padding: 10px;
 	margin-bottom: 10px;
+}
+select {
+	cursor: url(/images/cursor_pointer.png), auto;
 }
 form {
 	display: flex;
