@@ -112,10 +112,14 @@ button {
 	color: #000;
 	font-weight: bolder;
 	background-color: #fff;
+	cursor: url(/images/cursor_pointer.png), auto;
 }
+
 button:active {
 	cursor: url(/images/cursor_pointer.png), auto;
 }
 button:hover {
 	cursor: url(/images/cursor_pointer.png), auto;
+	background-color: #000;
+	color: #fff;
 }
