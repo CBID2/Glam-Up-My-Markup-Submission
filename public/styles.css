@@ -113,11 +113,9 @@ button {
 	font-weight: bolder;
 	background-color: #fff;
 }
-button :active {
-	/* add cartoon hand as a cursor */
+button:active {
 	cursor: url(/images/cursor_pointer.png), auto;
 }
-button :hover {
-	/* add cartoon hand as a cursor */
+button:hover {
 	cursor: url(/images/cursor_pointer.png), auto;
 }
