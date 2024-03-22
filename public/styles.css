@@ -12,12 +12,14 @@ body {
 	cursor: url(/images/cursor_pointer.png), pointer;
 	backdrop-filter: blur(4px);
 }
+
 section {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 	gap: 1rem;
 }
+
 h1,
 p,
 label,
@@ -30,6 +32,7 @@ button {
 	margin: 0;
 	padding: 0;
 }
+
 h1,
 p,
 label,
@@ -50,12 +53,15 @@ textarea {
 	margin-bottom: 10px;
 	width: auto;
 }
+
 label {
 	margin-bottom: 1rem;
 }
+
 select {
 	cursor: url(/images/cursor_pointer.png), auto;
 }
+
 form {
 	display: flex;
 	flex-direction: column;
@@ -79,6 +85,7 @@ option {
 	display: flex;
 	justify-content: center;
 }
+
 input {
 	width: 100%;
 	box-shadow: 0 0 5px #fff;
@@ -90,6 +97,7 @@ input {
 	font-weight: bolder;
 	background-color: #fff;
 }
+
 select {
 	width: 100%;
 	box-shadow: 0 0 5px #fff;
@@ -101,6 +109,7 @@ select {
 	font-weight: bolder;
 	background-color: #fff;
 }
+
 option {
 	width: 100%;
 	box-shadow: 0 0 5px #fff;
@@ -112,10 +121,12 @@ option {
 	font-weight: bolder;
 	background-color: #fff;
 }
+
 submit {
 	display: flex;
 	justify-content: center;
 }
+
 button {
 	width: 100%;
 	box-shadow: 0 0 5px #fff;
@@ -132,20 +143,24 @@ button {
 button:active {
 	cursor: url(/images/cursor_pointer.png), auto;
 }
+
 button:hover {
 	cursor: url(/images/cursor_pointer.png), auto;
 	background-color: #000;
 	color: #fff;
 }
+
 button:disabled {
 	cursor: not-allowed;
 	background-color: #ccc;
 	color: #000;
 }
+
 label[for="activity-select"]::after {
 	content: "*";
 	color: #d83f16;
 }
+
 .newPlayerMessage {
 	font-family: "Press Start 2P", cursive;
 	font-weight: 100;
@@ -155,13 +170,16 @@ label[for="activity-select"]::after {
 	line-height: 1.4rem;
 
 }
+
 .newPlayerEnteredIn {
 	animation: newPlayerI .4s cubic-bezier(0, 1.19, 0.86, -0.44);
 }
+
 @keyframes newPlayerI {
 	0% {
 		opacity: 0;
 	}
+
 	100% {
 		opacity: 1;
 	}
