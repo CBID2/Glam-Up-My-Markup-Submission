@@ -36,6 +36,7 @@ The goal is to create a visually appealing webpage using CSS and JS.
 ## Inspiration
 
 We were thinking about back to our childhood playing video games like Pokemon Silver or Zelda. So, we decided to create a form where the player has to pick an activity and they get another teammate after clicking one the submit button.
+To learn more about our creation process, check out [@CBID2's post on Dev.to](https://dev.to/cbid2/lets-go-camping-4g02).
 ## The Result
 
 ![Preview of the final result](/docs/preview.png)
