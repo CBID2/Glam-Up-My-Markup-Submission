@@ -124,3 +124,7 @@ button:hover {
 	background-color: #000;
 	color: #fff;
 }
+label[for="activity-select"]::after {
+	content: "*";
+	color: #d83f16;
+}
