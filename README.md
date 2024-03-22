@@ -12,7 +12,7 @@ The goal is to create a visually appealing webpage using CSS and JS.
 
 ![Preview of the final result](/docs/preview.png)
 
-You can see the final result [here](https://CBID2.github.io/Glam-Up-My-Markup-Submission/).
+You can see the final result [here](https://glam-up-my-markup-submission.vercel.app/).
 
 
 ## The Challenge
