@@ -46,12 +46,10 @@ h1 {
 }
 select,
 textarea {
-	width: 90%;
 	box-shadow: 0 0 5px #fff;
 	border-radius: 5px;
 	padding: 10px;
 	margin-bottom: 10px;
-	width: auto;
 }
 
 label {
