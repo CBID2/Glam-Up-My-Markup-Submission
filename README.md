@@ -1,6 +1,7 @@
 # Glam Up My Markup Submission
 
 ## Description
+
 This is a [submission for Dev.to's *Glam Up My Markup* challenge from DEV](https://dev.to/challenges/frontend).
 The goal is to create a visually appealing webpage using CSS and JS.
 
@@ -35,8 +36,9 @@ The goal is to create a visually appealing webpage using CSS and JS.
 
 ## Inspiration
 
-We were thinking about back to our childhood playing video games like Pokemon Silver or Zelda. So, we decided to create a form where the player has to pick an activity and they get another teammate after clicking one the submit button.
+We were thinking about back to our childhood playing video games like _Pokemon Silver_ or _The Legend of Zelda_. So, we decided to create a form where the player has to pick an activity and they get another teammate after clicking one the submit button.
 To learn more about our creation process, check out [@CBID2's post on Dev.to](https://dev.to/cbid2/lets-go-camping-4g02).
+
 ## The Result
 
 ![Preview of the final result](/docs/preview.png)
@@ -44,5 +46,6 @@ To learn more about our creation process, check out [@CBID2's post on Dev.to](ht
 You can see the final result [here](https://glam-up-my-markup-submission.vercel.app/).
 
 ## Participants
+
 - [Christine Belzie](https://dev.to/CBID2) as [@CBID2](https://github.com/CBID2)
 - [Thomas Bonnet](https://dev.to/thomasbnt) as [@thomasbnt](https://github.com/thomasbnt)
