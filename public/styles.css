@@ -11,6 +11,7 @@ body {
 	align-items: center;
 	cursor: url("images/cursor_pointer.png"), pointer;
 	backdrop-filter: blur(4px);
+	transition: 3s ease-in-out;
 }
 
 section {
@@ -43,6 +44,7 @@ textarea {
 }
 h1 {
 	color: #d83f16;
+	text-shadow: 2px 2px 0 #000;
 }
 select,
 textarea {
