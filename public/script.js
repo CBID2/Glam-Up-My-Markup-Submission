@@ -18,6 +18,7 @@ submit.addEventListener("click", (event) => {
     newActivity.textContent = `A new player who loves ${activity.value} entered into the party!`;
     submit.insertAdjacentElement("afterend", newActivity);
     submit.disabled = true;
+    document.body.style.backgroundImage = `url(./images/${activity.value}.png)`;
     setTimeout(() => {
       newActivity.classList.remove("newPlayerEnteredIn");
         setTimeout(() => {
