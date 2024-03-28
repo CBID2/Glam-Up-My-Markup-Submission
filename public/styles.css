@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-image: url(/images/campfire.jpg);
+	background-image: url("images/campfire.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -9,8 +9,9 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	cursor: url(/images/cursor_pointer.png), pointer;
+	cursor: url("images/cursor_pointer.png"), pointer;
 	backdrop-filter: blur(4px);
+	transition: 3s ease-in-out;
 }
 
 section {
@@ -43,6 +44,7 @@ textarea {
 }
 h1 {
 	color: #d83f16;
+	text-shadow: 2px 2px 0 #000;
 }
 select,
 textarea {
@@ -57,7 +59,7 @@ label {
 }
 
 select {
-	cursor: url(/images/cursor_pointer.png), auto;
+	cursor: url("images/cursor_pointer.png"), auto;
 }
 
 form {
@@ -70,7 +72,7 @@ form {
 	width: 80%;
 	max-width: 600px;
 	padding: 20px;
-	background-image: url("/images/grey-pixel.jpg");
+	background-image: url("images/grey-pixel.jpg");
 	background-repeat: repeat;
 	background-size: 8px 8px;
 	border-radius: 8px;
@@ -120,7 +122,7 @@ option {
 	background-color: #fff;
 }
 
-submit {
+button[type="submit"] {
 	display: flex;
 	justify-content: center;
 }
@@ -135,15 +137,15 @@ button {
 	color: #000;
 	font-weight: bolder;
 	background-color: #fff;
-	cursor: url(/images/cursor_pointer.png), auto;
+	cursor: url("images/cursor_pointer.png"), auto;
 }
 
 button:active {
-	cursor: url(/images/cursor_pointer.png), auto;
+	cursor: url("images/cursor_pointer.png"), auto;
 }
 
 button:hover {
-	cursor: url(/images/cursor_pointer.png), auto;
+	cursor: url("images/cursor_pointer.png"), auto;
 	background-color: #000;
 	color: #fff;
 }
