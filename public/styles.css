@@ -120,7 +120,7 @@ option {
 	background-color: #fff;
 }
 
-submit {
+button[type="submit"] {
 	display: flex;
 	justify-content: center;
 }
