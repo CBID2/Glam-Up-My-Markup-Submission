@@ -53,7 +53,7 @@ You can see the final result [here](https://glam-up-my-markup-submission.vercel.
 ## Credits
 
 - [Hiking image](https://pixilart.com/art/hiking-3f6fcbd0ee49c22) by [@rubyraven](https://pixilart.com/rubyraven)
-- [Canoeing image](https://www.pinterest.fr/pin/515169644858759631/)
+- [Canoeing image](https://www.pinterest.fr/pin/515169644858759631/) by [@DYAGames](https://twitter.com/dyagames)
 - [Fishing image](https://www.pixilart.com/art/a-fisherman-just-fishing-in-the-night-sr2a1fd3c1f0aaws3) by [@moelly](https://www.pixilart.com/moelly)
 - [Crafts image](https://www.artstation.com/artwork/Rnd9Qm) by [@eiskalterengel183](https://www.artstation.com/eiskalterengel183)
 - [Archery image](https://www.pixilart.com/art/target-98185e319ba5?) by [@banzkuz](https://www.pixilart.com/banzkuz)
